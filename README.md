@@ -1,7 +1,7 @@
 # SoftUni Entity Framework Core course
 Problem Solutions repository for the tasks given in the course.
 <p></p>
-<p>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;<img style="width: 40%" src="https://www.entityframeworktutorial.net/Images/efcore/ef-core-dev-approaces.png">&ensp;&ensp;&ensp;&ensp;
+<p>&ensp;&ensp;&ensp<img style="width: 40%" src="https://www.entityframeworktutorial.net/Images/efcore/ef-core-dev-approaces.png">&ensp;&ensp;&ensp;&ensp;
 </p>
 <p></p>
 <p></p>
